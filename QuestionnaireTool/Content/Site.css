@@ -194,3 +194,23 @@ a.back-to-top i {
 .main-pages {
     margin-top: 60px;
 }
+
+
+/*--------------------------------------------------------------
+# Intro Section
+--------------------------------------------------------------*/
+
+#intro {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: #F5F8FD url("/Images/intro-bg.jpg") center top no-repeat;
+    background-size: cover;
+}
+
+#intro .intro-info h2 {
+    color: #413E66;
+    margin-bottom: 40px;
+    font-size: 48px;
+    font-weight: 700;
+}
